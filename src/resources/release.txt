@@ -1,0 +1,25 @@
+2-4-2015 :-
+ created images folder and includes folder 
+ separated re usable jsp components and added them to includes folder
+ 
+ added angularjs files and started to develop edit functionality in product display page
+ 
+ 
+ angular js spring mvc integration   http://www.javabeat.net/spring-mvc-angularjs-integration/
+ 
+ angular resource - http://viralpatel.net/blogs/angularjs-controller-tutorial/
+ 
+ searchable  http://hello-angularjs.appspot.com/searchtable
+ 
+ edit/delete/save with new add -- http://vitalets.github.io/angular-xeditable/
+ 
+ 
+ 24-3-2015 
+ 
+ added jquery.autocomplete.js file in to jqueryui folder
+ 
+ 4_4_2015
+ 
+ remove unnessary part(employe add edit)
+ 
+ 

@@ -1,0 +1,2 @@
+1. ExternalItemStock only display unit price which bought recently. previous unit price is not displayed. but previous 
+unit price is displayed in ExternalItem table.This will be collide with previous unit prices up and down

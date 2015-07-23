@@ -1,0 +1,38 @@
+User
+
+  - addUser(User user) : User
+  - editUser(User user) : User
+  - deleteUser(Integer userId) : boolean
+  - getRoleByUserId(Integer userId) : String
+
+
+Customer 
+
+  - addCustomer(Customer customer) : Customer
+  - editCustomer(Customer customer) : Customer
+  - deleteCustomer(Integer customerId) : boolean
+  
+  
+  
+Buying
+
+  - addProduct(Product product, String userRole) : Product
+  - editProduct(Product product, String userRole) : Product
+  - deleteProduct(Long productId, String userRole) : boolean 
+  
+  
+
+Selling 
+
+
+  - addProductToInvoiceList(Product product) : void
+  - searchProductByName(String productName) : Product
+  - searchProductByCode(String productCode) : Product
+  - sellProducts(HashMap productMap, User user) : Boolean
+  
+  
+ Reports 
+ 
+  - daillyBuying()
+  - daillySales()
+
